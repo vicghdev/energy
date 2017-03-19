@@ -1,0 +1,6 @@
+{
+    "Port" : "COM1",
+    "Speed" : 9600,
+	"SlaveId" : 10,
+	"ResFile" : "ResFile.txt"
+}
